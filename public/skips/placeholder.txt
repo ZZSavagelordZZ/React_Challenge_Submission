@@ -1,0 +1,1 @@
+This directory will contain skip images named like "4yard.jpg", "6yard.jpg", etc. 
